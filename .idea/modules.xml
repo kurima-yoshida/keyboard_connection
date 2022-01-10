@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/keyboard_connection.iml" filepath="$PROJECT_DIR$/keyboard_connection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/keyboard_connection_android.iml" filepath="$PROJECT_DIR$/android/keyboard_connection_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/keyboard_connection_example_android.iml" filepath="$PROJECT_DIR$/example/android/keyboard_connection_example_android.iml" />
+    </modules>
+  </component>
+</project>
